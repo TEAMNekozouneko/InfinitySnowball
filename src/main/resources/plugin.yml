@@ -1,0 +1,6 @@
+name: InfinitySnowball
+version: '${project.version}'
+main: com.nekozouneko.event.infinitysnowball.InfinitySnowball
+api-version: 1.19
+authors: [ Taitaitatata ]
+description: 無限に雪玉投げれる
